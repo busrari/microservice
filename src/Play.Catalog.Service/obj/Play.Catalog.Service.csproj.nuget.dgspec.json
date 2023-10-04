@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/Play.Catalog.Service.csproj": {}
+    "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/Play.Catalog.Service.csproj": {
+    "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/Play.Catalog.Service.csproj",
+        "projectUniqueName": "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/Play.Catalog.Service.csproj",
+        "projectPath": "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
         "packagesPath": "/Users/aribusra/.nuget/packages/",
-        "outputPath": "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/obj/",
+        "outputPath": "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aribusra/.nuget/NuGet/NuGet.Config"
