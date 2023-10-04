@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fxp6hb8FOqs6g7j7nXpq7ce0mNd1ap6oGqNc0qCd/zLkRsOPKB5dmd3x9k1IEpTwMTni/KeptXyvkij7I08+kQ==",
+  "dgSpecHash": "jPQ+ClynY6l6nz1Wd2dsM3gR7M+/JMUyflvqfmBWLEcISEVCYATepiXdMEb/zbENGlESJi16NDnJghuKeK+k8g==",
   "success": true,
-  "projectFilePath": "/Users/aribusra/Documents/Projects/MicroService/microservice/Play.Catalog.Service/Play.Catalog.Service.csproj",
+  "projectFilePath": "/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "/Users/aribusra/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/Users/aribusra/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
