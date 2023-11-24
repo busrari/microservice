@@ -31,3 +31,16 @@
 /Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/obj/Debug/net7.0/Play.Catalog.Service.pdb
 /Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/obj/Debug/net7.0/Play.Catalog.Service.genruntimeconfig.cache
 /Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/obj/Debug/net7.0/ref/Play.Catalog.Service.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/DnsClient.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/SharpCompress.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/Snappier.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/ZstdSharp.dll
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aribusra/Documents/Projects/MicroService/microservice/src/Play.Catalog.Service/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
